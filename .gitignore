@@ -1,6 +1,7 @@
 # .NET Core
 bin/
 obj/
+.vs/
 
 # Visual Studio files
 .vscode/
